@@ -1,0 +1,2 @@
+deadline_id,title,date,date_status,source,related_case_id,notes
+DEADLINE-EXAMPLE-001,Check fictional reservation,2026-10-17,Personal review date,Fictional reminder,EXAMPLE-001,Not an official external deadline

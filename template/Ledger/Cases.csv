@@ -1,0 +1,2 @@
+case_id,title,status,owner,source,source_date,next_action,next_review_date,verified_deadline,last_verified
+EXAMPLE-001,Fictional community center registration,Waiting,Example household member,Fictional email,2026-10-01,Check for confirmation,2026-10-17,,2026-10-04
